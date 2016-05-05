@@ -12,3 +12,7 @@ Use this shortcode in your post or page content section.
 `[wp-colour-block background-colour="red" text-colour="white" font-size="20px"] Your text content will go here. [/wp-colour-block]`
 
 You can change background and text colour as your prefernce. Both RGB (#) colour code and colour name acceptable in the short code. 
+
+Sample screenshot: 
+
+![alt text](https://github.com/blbwd/WP-COLOUR-BLOCK/blob/master/wp-colour-block/screenshot.png "sample screenshot")
